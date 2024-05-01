@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @chaturyamokshitha
+- 👀 I’m interested in exploring new technologies and building innovative solutions.
+- 🌱 I’m currently learning web development  and data structures.
+- 💞️ I’m looking to collaborate on projects related to web development.
+- 📫 You can reach me via email at chaturyamokshitha@gmail.com 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm an artist, and I enjoy expressing my creativity through various mediums such as painting and sculpting.
